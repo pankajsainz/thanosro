@@ -24,4 +24,4 @@ class Development(Config):
     # External plugins repo
     EXTERNAL_REPO = "https://github.com/rishabhanand2/tha_plugins"
     #don't edit this 
-    THANOSABUSE = "true"
+    THANOSABUSE = "false"
