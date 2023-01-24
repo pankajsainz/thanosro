@@ -3,7 +3,7 @@ from sample_config import Config
 
 class Development(Config):
     # get this values from the my.telegram.org
-    APP_ID = 6296490
+    APP_ID = "6296490"
     API_HASH = "24385183c93a98ae4155c25d9f5f64b2"
     # the name to display in your alive message
     ALIVE_NAME = "𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛VENOM๛٭》[🇮🇳]"
@@ -14,7 +14,7 @@ class Development(Config):
     # create a new bot in @botfather and fill the following vales with bottoken
     TG_BOT_TOKEN = "5897701792:AAFIJ8NlfS5NwU3CrnO9RVsm7scvYs1j46k"
     # create a private group and a rose bot to it and type /id and paste that id here (replace that -100 with that group id)
-    PRIVATE_GROUP_BOT_API_ID = -100876251350
+    PRIVATE_GROUP_BOT_API_ID = "-1001833329325"
     # command handler
     COMMAND_HAND_LER = "."
     VCMODE = "True"
@@ -24,4 +24,4 @@ class Development(Config):
     # External plugins repo
     EXTERNAL_REPO = "https://github.com/rishabhanand2/tha_plugins"
     #don't edit this 
-    THANOSABUSE = "false"
+    THANOSABUSE = "false" #don't edit this
